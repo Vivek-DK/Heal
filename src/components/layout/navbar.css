@@ -1,0 +1,25 @@
+body{
+  padding: 20px;
+}
+
+.home{
+  margin-top: -20px;
+}
+
+.profile p{
+position: absolute;
+}
+
+.dropdown{
+  background-color: aqua;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  top: 10px;
+}
+
+.profile p:hover{
+  .dropdown{
+    display: block;
+  }
+}
