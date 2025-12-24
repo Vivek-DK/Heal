@@ -32,12 +32,6 @@ This project was inspired by real-life challenges faced by many families. It aim
 
 ---
 
-## 📸 Screenshots
-
-> *(Add a few images or GIFs of your UI here)*
-
----
-
 ## 🔍 Features
 
 - ✅ Home visit booking system
@@ -72,17 +66,11 @@ This project was inspired by real-life challenges faced by many families. It aim
 
 📬 Contact
 
-  Email: dviv61282@gmail.com
+  Email: vivek.dkrishnamurthy@gmail.com
 
-  LinkedIn: https://www.linkedin.com/in/vivek-dk-613a9132a/
+  LinkedIn: https://www.linkedin.com/in/vivekdk1310/
 
   GitHub: https://github.com/Vivek-DK?tab=overview&from=2025-03-01&to=2025-03-31
-
----
-
-⭐ Show Your Support
-
-  If you like the project, don’t forget to ⭐ star it on GitHub and share it with your network!
 
 ---
 
